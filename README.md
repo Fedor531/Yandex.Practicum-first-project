@@ -1,2 +1,2 @@
 # Yandex.Practicum-first-project
-а
+HTML +CSS (flex+grid)
