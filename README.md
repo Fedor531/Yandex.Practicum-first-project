@@ -1,2 +1,2 @@
 # Yandex.Practicum-first-project
-HTML +CSS (flex+grid)
+Лендинг – HTML, CSS (flexbox, grid), BEM
