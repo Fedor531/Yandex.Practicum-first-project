@@ -1,2 +1,4 @@
 # Yandex.Practicum-first-project
-Лендинг – HTML, CSS (flexbox, grid), BEM
+Лендинг – "Научиться учиться"
+Стэк технологий:
+HTML, CSS (flexbox, grid), BEM
