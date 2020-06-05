@@ -7,5 +7,5 @@
 * HTML
 * CSS
 #### Просмотреть можно по ссылке: </br>
-https://yandex-practicum-adaptive-landing-page.now.sh/
+https://yandex-practicum-first-project-landing.now.sh
 
