@@ -6,6 +6,8 @@
 #### Стэк технологий:
 * HTML
 * CSS
+#### Что дальше <br/>
+Планирую адаптивно пересверстать сайт <br/>
 #### Просмотреть можно по ссылке: </br>
 https://yandex-practicum-first-project-landing.now.sh
 
